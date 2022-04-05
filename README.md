@@ -5,5 +5,6 @@ I developed this cool and simple landing using Pure technologies such as Pure Ht
 A fuuly responsive landing page
 uiux by Saheb Mohammadi 
 
+You can see the online version of the project from the link above in Verce
 
 best wishes for you😎❤
